@@ -1,3 +1,8 @@
+.box{
+  background-color: lightcoral;
+  min-height: 100px;
+  max-width: 200px;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
