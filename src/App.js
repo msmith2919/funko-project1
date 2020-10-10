@@ -9,73 +9,73 @@ function App() {
               name:"Goku",
               category:"animation",
               value:1,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/33_SuperSaiyanGoku.jpg"
+              img: "https://www.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/795075/Goku_%2528Windy%2529_%2528Kamehameha%2529_Vinyl_Art_Toys_8dff3451-1adf-46b3-addd-4d1464a22a3c.png"
           },
           {
               name:"Vegeta",
               category:"animation",
               value:2,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/8151_supersaiyanvegeta_1472654695.jpg"
+              img: "https://i5.walmartimages.com/asr/889701b8-024a-43c2-bd4a-7d6a1ba01cfe_1.1dfc0bd9f4bbb21a573ebfcfee959f33.png"
           },
           {
               name:"Vegito",
               category:"animation",
               value:5,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/16554_ssgssvegitometallic_1545253889.jpeg"
+              img: "https://www.pngkey.com/png/full/440-4402411_dragon-ball-z-super-saiyan-vegito-funko-pop.png"
           },
           {
               name:"Deku",
               category:"animation",
               value:2,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/10498_deku_1495199866.jpg"
+              img: "https://cdn.shopify.com/s/files/1/2528/8830/products/FU48476_512x512.png?v=1593713656"
           },
           {
               name:"Kazuya",
               category:"games",
               value:3,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/9703_kazuya_1487027906.jpg"
+              img: "https://www.colthat.com/content/media/2017/02/12830-2.png.webp"
           },
           {
               name:"Cortex",
               category:"games",
               value:2,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/11825_drneocortex_1505810756.jpg"
+              img: "https://www.funko.com/craftmin/products/43451b_CrashBandicoot_NeoCortex_MM_WEB.png"
           },
           {
               name:"Sonic",
               category:"games",
               value:4,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/12315_sonicemerald_1534031350.jpg"
+              img: "https://www.colthat.com/content/media/2017/10/funko_pop_vinyl_sonic_-_sonic_the_hedgehog_with_emerald-300x300.png"
           },
           {
               name:"McCree",
               category:"games",
               value:3,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/9789_mccree_1488423232.jpg"
+              img: "https://i.postimg.cc/C5V2R8cq/2019sdcc-mccree.png"
           },
           {
               name:"Michael Scott",
               category:"television",
               value:3,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/18115_michaelscott_1559249016.jpg"
+              img: "https://cdn.shopify.com/s/files/1/0706/6127/products/Office_-_Michael_2048x.png?v=1573846990"
           },
           {
               name:"Dwight",
               category:"television",
               value:1,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/18118_dwightschrute_1559249425.jpg"
+              img: "https://i5.walmartimages.com/asr/d785a446-e759-46a5-8ad2-48d930dc8111_1.500a9c1774657f6a0ef501b9604b0756.png?odnWidth=612&odnHeight=612&odnBg=ffffff"
           },
           {
               name:"Jim",
               category:"television",
               value:2,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/18116_jimhalpert_1559249178.jpg"
+              img: "https://cdn.shopify.com/s/files/1/0258/9350/3010/products/1436-3266-8d6d7fa376535d7-34903a-TheOffice-JimHalpert-Pop-GLAM_1200x1200.png?v=1596208705"
           },
           {
               name:"Pam",
               category:"television",
               value:1,
-              img: "https://cdn.poppriceguide.com/guide/itmimg/thumb/18119_pambeesly_1559249505.jpg"
+              img: "https://cdn.shopify.com/s/files/1/1052/2158/products/34905_TheOffice_PamBeesly_WEB.png?v=1585691958"
           }
       ]);
 
