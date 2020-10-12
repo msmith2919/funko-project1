@@ -3,7 +3,9 @@
   display: inline-flex;
   width: 300px;
 }
-
+nav{
+  text-align: center;
+}
 .item{
   flex-grow: 1;
   margin: 10px;
