@@ -79,7 +79,7 @@ function DataPage(props){
     return(
         <div>
             <h1>{props.match.params.id}</h1>
-            {boxInfo.filter(funko => funko.category === "/dataPage/:id").map(filteredFunko => (
+            {boxInfo.filter(funko => funko.category === "games").map(filteredFunko => (
                 <div class={"item"}>
                     <h1>{"Name: " + filteredFunko.name}</h1>
                     <h2>{"Category: " + filteredFunko.category}</h2>
