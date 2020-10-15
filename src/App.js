@@ -2,6 +2,7 @@ import React from 'react';
 import Home from "./components/Home";
 import DataPage from "./components/DataPage";
 import Nav from "./components/Nav";
+import FunkoPage from "./components/FunkoPage";
 import{
     BrowserRouter as Router,
     Switch,
@@ -16,6 +17,7 @@ function App() {
           <Router>
               <Nav/>
               <Switch>
+                  <Route path={"/FunkoPage/"} component={FunkoPage}/>
                   <Route path={"/dataPage/:id"} component={DataPage}/>
                   <Route path={"/"} component={Home}/>
               </Switch>

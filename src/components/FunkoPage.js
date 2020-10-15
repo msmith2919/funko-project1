@@ -1,5 +1,5 @@
 import React from "react";
-function DataPage(props){
+function FunkoPage(props){
 
     const [boxInfo]=React.useState(
         [
@@ -79,13 +79,14 @@ function DataPage(props){
 
     return(
         <div>
-            {boxInfo.filter(funko => funko.category === props.match.params.id).map(filteredFunko => (
+            {boxInfo.filter(funko => funko.name === "Goku").map(filteredFunko => (
                 <div class={"container"}>
                     <div class={"item"}>
                         <h1>{"Name: " + filteredFunko.name}</h1>
                         <h2>{"Category: " + filteredFunko.category}</h2>
                         <h2>{"Value: " + filteredFunko.value}</h2>
                         <img src={filteredFunko.img} alt={"Funko"}/>
+                        {props.match.params.id}
                     </div>
                 </div>
             ))}
@@ -93,4 +94,4 @@ function DataPage(props){
     )
 }
 
-export default DataPage
+export default FunkoPage;
