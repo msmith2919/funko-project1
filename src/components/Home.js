@@ -57,7 +57,7 @@ function Home() {
                 name:"Michael Scott",
                 category:"television",
                 value:3,
-                img: "https://cdn.shopify.com/s/files/1/0706/6127/products/Office_-_Michael_2048x.png?v=1573846990"
+                img: "https://cdn.shopify.com/s/files/1/2152/6373/products/51486_TheOffice_StraitJacketMichael_POP_GLAM-WEB_1800x1800.png?v=1597251600"
             },
             {
                 name:"Dwight",

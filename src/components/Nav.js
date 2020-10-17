@@ -10,7 +10,6 @@ function Nav(){
             <button><Link to={"/dataPage/television"}>Television</Link></button>
             <button><Link to={"/dataPage/animation"}>Animation</Link></button>
             <button><Link to={"/FunkoPage"}>Funko Page</Link></button>
-
         </nav>
     )
 } export default Nav;
